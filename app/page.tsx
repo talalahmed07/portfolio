@@ -45,7 +45,7 @@ export default function Page() {
         <div className="absolute inset-0 z-10 flex flex-col items-center justify-center px-6 text-center">
           <p className="mb-3 text-sm uppercase tracking-[0.3em] text-cyan-300">Finance · Corporate Finance &amp; FP&amp;A</p>
           <h1 className="text-5xl font-bold tracking-tight md:text-7xl">Talal Ahmed Butt</h1>
-          <p className="mt-4 max-w-xl text-lg text-white/70">Finance student at UMass Amherst’s Isenberg School of Management, building accurate models and clear recommendations.</p>
+          <p className="mt-4 max-w-xl text-lg text-white/70">Finance student at UMass Amherst’s Isenberg School of Management</p>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
             <a href="/resume.pdf" target="_blank" rel="noopener" className="inline-flex items-center gap-2 rounded-md bg-white px-5 py-2.5 font-medium text-black transition hover:bg-cyan-200"><Download size={16} /> View Resume</a>
             <a href="#contact" className="inline-flex items-center gap-2 rounded-md border border-white/40 px-5 py-2.5 font-medium transition hover:border-cyan-300 hover:text-cyan-300"><Mail size={16} /> Get in touch</a>
