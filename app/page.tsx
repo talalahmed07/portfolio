@@ -88,7 +88,7 @@ export default function Page() {
         <section>
           <H2 id="references">References</H2>
           <div className={`${card} space-y-3 text-white/80`}>
-            <p className="text-sm text-white/50">Letter of Recommendation (generic sample)</p>
+            <p className="text-sm text-white/50">Letter of Recommendation</p>
             <p>To Whom It May Concern,</p>
             {letter.map((p, i) => <p key={i} className="whitespace-pre-line">{p}</p>)}
           </div>
