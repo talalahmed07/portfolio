@@ -109,7 +109,7 @@ export default function Page() {
         <section>
           <H2 id="contact">Contact</H2>
           <div className={`${card} space-y-3`}>
-            <p className="text-white/80">I’m seeking Summer 2027 opportunities in Corporate Finance and FP&amp;A.</p>
+            <p className="text-white/80">I’m seeking internship opportunities in Corporate Finance and FP&amp;A.</p>
             <a href="mailto:tbutt@umass.edu" className="flex items-center gap-2 hover:text-cyan-300"><Mail size={16} /> tbutt@umass.edu</a>
             <a href="tel:+14133139106" className="flex items-center gap-2 hover:text-cyan-300"><Phone size={16} /> (413) 313-9106</a>
             <a href="https://linkedin.com/in/talalahmedbutt" target="_blank" rel="noopener" className="flex items-center gap-2 hover:text-cyan-300"><ExternalLink size={16} /> linkedin.com/in/talalahmedbutt</a>
